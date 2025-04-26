@@ -1,0 +1,7 @@
+# Ignore all .mp4 files
+*.mp4
+*.mkv
+PLAN.md
+
+# Ignore Python bytecode files
+*.pyc
